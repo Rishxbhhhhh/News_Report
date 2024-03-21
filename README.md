@@ -56,9 +56,4 @@ This project is a personal showcase and reference.
 While users are welcome to download, explore, and gain insights from the code.
 No contributions are expected or accepted. You are free to use the code as a reference for your own projects.
 
-
-## Contact
-
-If you have any questions, suggestions, or issues, please feel free to contact us at meprashanttyagi2000@gmail.com
-
 Thank you for using our News Website!
